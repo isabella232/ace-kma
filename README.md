@@ -1,4 +1,4 @@
-# Microsoft Azure Knowledge Mining getting started sample
+# Microsoft Azure Knowledge Mining getting started
 
 This is an open source end-to-end sample application that enables you to try the latest features of Azure Cognitive Search!  
 
