@@ -22,14 +22,7 @@ Additional features/capabilities
 
 ## Getting started
 
-Today we are making available three read-only pre-configured demos of KMA ([Healthcare](https://kmahc-webui.azurewebsites.net/), [Oil & Gas](https://kmaoilgas-webui.azurewebsites.net/), and [Retail](https://kmaretail-webui.azurewebsites.net/)) that can be used without any configuration and setup. Just click one of the links above and you are ready to start searching on a sample set of data relevant to these verticals!  
-
-![The Verticals](./images/figure-1.PNG)
-Figure 1: The verticals selector and the GitHub link to create your own deployment.  
-
-Once you get familiar with the application and the capabilities of Azure Cognitive Search, you can either deploy your own version of the application and use your own data, [via a one-click deployment](https://github.com/Azure/AIPlatform/blob/master/end-to-end-solutions/kma/Deployment/readme.md), or you can get the code from our public Azure Customer Engineering (ACE) [GitHub repo](https://github.com/Azure/AIPlatform/tree/master/end-to-end-solutions/kma/src) to further customize and extent the solution to fit your own use cases/scenarios.
-
-This [video](https://www.youtube.com/watch?v=Xp8NiljMUEI) walks you through the KMA solution and demonstrates how you can use the pre-configured versions as well as how you can deploy your own version.
+Once you get familiar with the application and the capabilities of Azure Cognitive Search, you can either deploy your own version of the application and use your own data, [via a one-click deployment](https://github.com/Azure/ace-kma/blob/main/Deployment/readme.md), or you can get the code from our public Azure Customer Engineering (ACE) [GitHub repo](https://github.com/Azure/ace-kma/tree/main/src) to further customize and extent the solution to fit your own use cases/scenarios.
 
 ## Solution Architecture
 
