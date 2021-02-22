@@ -2,7 +2,6 @@
 
 This is an open source end-to-end sample application that enables you to try the latest features of Azure Cognitive Search!  
 
-[KMA Demos Homepage](http://aka.ms/kma) | [Source Code](https://github.com/Azure/AIPlatform/tree/master/end-to-end-solutions/kma/src) | [1-Click Deployment - Bring your own data](http://aka.ms/kmadeployment)
 
 The solution includes the most popular features of the existing Microsoft Cognitive Search demos, like [JFK](https://jfk-demo.azurewebsites.net/#/), as well as a set of new important features and capabilities - use it with your own data, customizable UI (graph visualization, colors, logos for white-labeling), facets filtering of unwanted terms, and many more (see below for a full list)!  
 
@@ -41,14 +40,5 @@ We really appreciate your feedback! Please create issues on GitHub for any glitc
 
 ## Conclusion  
 
-We hope that this project will be useful for anyone trying to use or demonstrate Knowledge Mining solutions. Stay tuned in this blog channel to be informed about new verticals, new features, and the lessons learned from the project development cycle. Click [here](http://aka.ms/kma) and start to using the solution, or to deploy it in your own subscription.
+We hope that this project will be useful for anyone trying to use or demonstrate Knowledge Mining solutions. Stay tuned in this blog channel to be informed about new verticals, new features, and the lessons learned from the project development cycle.
 
-## Key Links
-
-+ [KMA Demos Homepage](http://aka.ms/kma)
-+ [KMA Source Code](https://github.com/Azure/AIPlatform/tree/master/end-to-end-solutions/kma/src)
-+ [KMA 1-Click Deployment](https://aka.ms/kmadeployment)
-+ [KMA Blog Announcement](https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Announcement-Knowledge-Mining-Solution-Accelerator-KMA-v1-0/ba-p/805889)
-+ [ACE Team Blog Homepage](http://aka.ms/ACE-Blog)
-+ [ACE Team Blog - Cognitive Search on Audio Files](https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Mine-knowledge-from-audio-files-with-Microsoft-AI/ba-p/781957)
-+ [KMB - Knowledge Mining Bootcamp](http://aka.ms/kmb)
